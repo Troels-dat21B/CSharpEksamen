@@ -1,0 +1,15 @@
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\bin\Debug\net7.0\Collections_and_Generics.exe
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\bin\Debug\net7.0\Collections_and_Generics.deps.json
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\bin\Debug\net7.0\Collections_and_Generics.runtimeconfig.json
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\bin\Debug\net7.0\Collections_and_Generics.dll
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\bin\Debug\net7.0\Collections_and_Generics.pdb
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\Collections_and_Generics.csproj.AssemblyReference.cache
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\Collections_and_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\Collections_and_Generics.AssemblyInfoInputs.cache
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\Collections_and_Generics.AssemblyInfo.cs
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\Collections_and_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\Collections_and_Generics.dll
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\refint\Collections_and_Generics.dll
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\Collections_and_Generics.pdb
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\Collections_and_Generics.genruntimeconfig.cache
+C:\Users\Troels\Desktop\Eksamen\Collections_and_Generics\obj\Debug\net7.0\ref\Collections_and_Generics.dll
