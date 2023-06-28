@@ -1,0 +1,15 @@
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\bin\Debug\net7.0\Method-level_structures.exe
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\bin\Debug\net7.0\Method-level_structures.deps.json
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\bin\Debug\net7.0\Method-level_structures.runtimeconfig.json
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\bin\Debug\net7.0\Method-level_structures.dll
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\bin\Debug\net7.0\Method-level_structures.pdb
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\Method-level_structures.csproj.AssemblyReference.cache
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\Method-level_structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\Method-level_structures.AssemblyInfoInputs.cache
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\Method-level_structures.AssemblyInfo.cs
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\Method-level_structures.csproj.CoreCompileInputs.cache
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\Method-level_structures.dll
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\refint\Method-level_structures.dll
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\Method-level_structures.pdb
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\Method-level_structures.genruntimeconfig.cache
+C:\Users\Troels\Desktop\Eksamen\Method-level_structures\obj\Debug\net7.0\ref\Method-level_structures.dll

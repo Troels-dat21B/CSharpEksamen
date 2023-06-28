@@ -1,0 +1,15 @@
+C:\Users\Troels\Desktop\Eksamen\Advanced\bin\Debug\net7.0\Advanced.exe
+C:\Users\Troels\Desktop\Eksamen\Advanced\bin\Debug\net7.0\Advanced.deps.json
+C:\Users\Troels\Desktop\Eksamen\Advanced\bin\Debug\net7.0\Advanced.runtimeconfig.json
+C:\Users\Troels\Desktop\Eksamen\Advanced\bin\Debug\net7.0\Advanced.dll
+C:\Users\Troels\Desktop\Eksamen\Advanced\bin\Debug\net7.0\Advanced.pdb
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\Advanced.csproj.AssemblyReference.cache
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\Advanced.AssemblyInfoInputs.cache
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\Advanced.AssemblyInfo.cs
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\Advanced.dll
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\refint\Advanced.dll
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\Advanced.pdb
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\Advanced.genruntimeconfig.cache
+C:\Users\Troels\Desktop\Eksamen\Advanced\obj\Debug\net7.0\ref\Advanced.dll
